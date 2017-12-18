@@ -4,7 +4,6 @@ import cats.data.State
 import cats.~>
 import database.AddressBookDatabase
 import domain.Address
-
 import scala.concurrent.Future
 
 

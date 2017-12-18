@@ -27,5 +27,4 @@ class InterpretersTest extends FlatSpec with Matchers {
     val (_, newSanta) = storage.head
     newSanta.town shouldEqual "Northpole"
   }
-
 }
